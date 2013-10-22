@@ -1,0 +1,1 @@
+//write a function that matches a string to a simplified regex string, with exact matches, "." == any char, "*" == any char 0 or more times
